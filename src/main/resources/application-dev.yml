@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  context-path: /app
+
+mobile:
+  device: android
+  version: 8
